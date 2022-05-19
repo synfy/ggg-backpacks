@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "gggbackpacks:emerald_backpacks"
+    },
+    {
+      "item": "minecraft:purple_dye"
+    }
+  ],
+  "result": {
+    "item": "gggbackpacks:purple_emerald_backpack",
+    "count": 1
+  }
+}

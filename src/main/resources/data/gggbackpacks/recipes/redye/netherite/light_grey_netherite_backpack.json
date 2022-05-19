@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "gggbackpacks:netherite_backpacks"
+    },
+    {
+      "item": "minecraft:light_gray_dye"
+    }
+  ],
+  "result": {
+    "item": "gggbackpacks:light_grey_netherite_backpack",
+    "count": 1
+  }
+}

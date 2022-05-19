@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "LLL",
+    "LCL",
+    "LLL"
+  ],
+  "key": {
+    "L": {
+      "item": "minecraft:copper_ingot"
+    },
+    "C": {
+      "item": "gggbackpacks:light_grey_leather_backpack"
+    }
+  },
+  "result": {
+    "item": "gggbackpacks:light_grey_copper_backpack",
+    "count": 1
+  }
+}

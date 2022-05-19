@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "gggbackpacks:gold_backpacks"
+    },
+    {
+      "item": "minecraft:magenta_dye"
+    }
+  ],
+  "result": {
+    "item": "gggbackpacks:magenta_gold_backpack",
+    "count": 1
+  }
+}

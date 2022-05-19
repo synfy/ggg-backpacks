@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "LLL",
+    "LCL",
+    "LLL"
+  ],
+  "key": {
+    "L": {
+      "item": "minecraft:emerald"
+    },
+    "C": {
+      "item": "gggbackpacks:dnf_gold_backpack"
+    }
+  },
+  "result": {
+    "item": "gggbackpacks:dnf_emerald_backpack",
+    "count": 1
+  }
+}

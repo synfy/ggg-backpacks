@@ -1,0 +1,22 @@
+{
+  "replace": false,
+  "values": [
+    "gggbackpacks:iron_backpack",
+    "gggbackpacks:white_iron_backpack",
+    "gggbackpacks:orange_iron_backpack",
+    "gggbackpacks:magenta_iron_backpack",
+    "gggbackpacks:light_blue_iron_backpack",
+    "gggbackpacks:yellow_iron_backpack",
+    "gggbackpacks:lime_iron_backpack",
+    "gggbackpacks:pink_iron_backpack",
+    "gggbackpacks:grey_iron_backpack",
+    "gggbackpacks:light_iron_leather_backpack",
+    "gggbackpacks:cyan_iron_backpack",
+    "gggbackpacks:purple_iron_backpack",
+    "gggbackpacks:blue_iron_backpack",
+    "gggbackpacks:green_iron_backpack",
+    "gggbackpacks:red_iron_backpack",
+    "gggbackpacks:black_iron_backpack",
+    "gggbackpacks:dnf_iron_backpack"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "LLL",
+    "LCL",
+    "LLL"
+  ],
+  "key": {
+    "L": {
+      "item": "minecraft:diamond"
+    },
+    "C": {
+      "item": "gggbackpacks:yellow_emerald_backpack"
+    }
+  },
+  "result": {
+    "item": "gggbackpacks:yellow_diamond_backpack",
+    "count": 1
+  }
+}

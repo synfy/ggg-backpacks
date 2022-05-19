@@ -1,0 +1,22 @@
+{
+  "replace": false,
+  "values": [
+    "gggbackpacks:gold_backpack",
+    "gggbackpacks:white_gold_backpack",
+    "gggbackpacks:orange_gold_backpack",
+    "gggbackpacks:magenta_gold_backpack",
+    "gggbackpacks:light_blue_gold_backpack",
+    "gggbackpacks:yellow_gold_backpack",
+    "gggbackpacks:lime_gold_backpack",
+    "gggbackpacks:pink_gold_backpack",
+    "gggbackpacks:grey_gold_backpack",
+    "gggbackpacks:light_gold_leather_backpack",
+    "gggbackpacks:cyan_gold_backpack",
+    "gggbackpacks:purple_gold_backpack",
+    "gggbackpacks:blue_gold_backpack",
+    "gggbackpacks:green_gold_backpack",
+    "gggbackpacks:red_gold_backpack",
+    "gggbackpacks:black_gold_backpack",
+    "gggbackpacks:dnf_gold_backpack"
+  ]
+}

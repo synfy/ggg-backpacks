@@ -1,0 +1,22 @@
+{
+  "replace": false,
+  "values": [
+    "gggbackpacks:copper_backpack",
+    "gggbackpacks:white_copper_backpack",
+    "gggbackpacks:orange_copper_backpack",
+    "gggbackpacks:magenta_copper_backpack",
+    "gggbackpacks:light_blue_copper_backpack",
+    "gggbackpacks:yellow_copper_backpack",
+    "gggbackpacks:lime_copper_backpack",
+    "gggbackpacks:pink_copper_backpack",
+    "gggbackpacks:grey_copper_backpack",
+    "gggbackpacks:light_copper_leather_backpack",
+    "gggbackpacks:cyan_copper_backpack",
+    "gggbackpacks:purple_copper_backpack",
+    "gggbackpacks:blue_copper_backpack",
+    "gggbackpacks:green_copper_backpack",
+    "gggbackpacks:red_copper_backpack",
+    "gggbackpacks:black_copper_backpack",
+    "gggbackpacks:dnf_copper_backpack"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "replace": false,
+  "values": [
+    "gggbackpacks:netherite_backpack",
+    "gggbackpacks:white_netherite_backpack",
+    "gggbackpacks:orange_netherite_backpack",
+    "gggbackpacks:magenta_netherite_backpack",
+    "gggbackpacks:light_blue_netherite_backpack",
+    "gggbackpacks:yellow_netherite_backpack",
+    "gggbackpacks:lime_netherite_backpack",
+    "gggbackpacks:pink_netherite_backpack",
+    "gggbackpacks:grey_netherite_backpack",
+    "gggbackpacks:light_netherite_leather_backpack",
+    "gggbackpacks:cyan_netherite_backpack",
+    "gggbackpacks:purple_netherite_backpack",
+    "gggbackpacks:blue_netherite_backpack",
+    "gggbackpacks:green_netherite_backpack",
+    "gggbackpacks:red_netherite_backpack",
+    "gggbackpacks:black_netherite_backpack",
+    "gggbackpacks:dnf_netherite_backpack"
+  ]
+}

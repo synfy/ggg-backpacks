@@ -1,0 +1,12 @@
+{
+  "variants": {
+    "facing=north,waterlogged=false": { "model": "gggbackpacks:block/black_leather_backpack" },
+    "facing=east,waterlogged=false":  { "model": "gggbackpacks:block/black_leather_backpack", "y":  90 },
+    "facing=south,waterlogged=false": { "model": "gggbackpacks:block/black_leather_backpack", "y": 180 },
+    "facing=west,waterlogged=false":  { "model": "gggbackpacks:block/black_leather_backpack", "y": 270 },
+    "facing=north,waterlogged=true": { "model": "gggbackpacks:block/black_leather_backpack" },
+    "facing=east,waterlogged=true":  { "model": "gggbackpacks:block/black_leather_backpack", "y":  90 },
+    "facing=south,waterlogged=true": { "model": "gggbackpacks:block/black_leather_backpack", "y": 180 },
+    "facing=west,waterlogged=true":  { "model": "gggbackpacks:block/black_leather_backpack", "y": 270 }
+  }
+}
